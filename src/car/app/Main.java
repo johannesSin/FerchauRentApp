@@ -29,8 +29,7 @@ public class Main {
 		
 		//the user rent a car if it's available
 		//MySQL.carAvailable(id);
-		
-		
+				
 		//RentCar.rent(uid,id);
 		
 		//lMySQL.amountKm(id);
