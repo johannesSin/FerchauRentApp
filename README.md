@@ -5,10 +5,14 @@ For this reason I installed "XAMPP Control Panel v3.3.0" to start a local DB for
 Download Link:
 https://www.apachefriends.org/de/index.html
 
-When installed "XAMPP Control Panel v3.3.0" needs to be started. 
+When installed "XAMPP Control Panel v3.3.0" needs to be started.
+
     => Apache   => Start
+
     => MySQL    => Start    => press "Admin"
+    
 the local DB starts and the used structure can be imported from the repository "mysql-carapp.sql". Now the system is ready to use. 
+
 
 Run the Java application from the IDE and activate several commands wich are implemented. Uncomment for testing and see the results in the DB by actualizing them.
 
