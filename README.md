@@ -1,4 +1,4 @@
-# Ferchau Car rent App (703078, 2021)
+# Ferchau Car rent App
 
 This repository contains material for the given task to develop a App with a DB for a car renting app. I used a DB with 3 tables (user, cars, rent). 
 For this reason I installed "XAMPP Control Panel v3.3.0" to start a local DB for testing my application.
@@ -16,12 +16,15 @@ Functions which are implemented:
 
 User 
 - CRUD
+
 Car
 - CRUD
 - Rent status
+
 RentApp
 - Number of rented cars
 - Rented km for specific car (with id)
 
-Display whole Car DB 
+Display whole Car DB
+
 Display whole User DB
