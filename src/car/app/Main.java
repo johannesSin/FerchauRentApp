@@ -31,7 +31,7 @@ public class Main {
 		//MySQL.carAvailable(id);
 		
 		
-		RentCar.rent(uid,id);
+		//RentCar.rent(uid,id);
 		
 		//lMySQL.amountKm(id);
 		//MySQL.numberRentedCars();
